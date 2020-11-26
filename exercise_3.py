@@ -28,3 +28,6 @@ def get_address(port):
                 return obj.group()
 
 
+if __name__ == '__main__':
+    port = input("端口:")
+    print(get_address(port))

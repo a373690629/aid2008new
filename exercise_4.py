@@ -1,6 +1,4 @@
-'''
-    第一种方案
-'''
+
 person = {}
 
 f = open("talk.txt", "r")
