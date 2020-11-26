@@ -12,6 +12,7 @@
    re.findall(r'\b[A-Z]\w*',"Hello  I am world  CBD iPython")
 
 
+用于测试
 练习2:
 
 1. 匹配一段文字中所有数字包含
