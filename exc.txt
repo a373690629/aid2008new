@@ -1,6 +1,6 @@
 RP/0/RSP0/CPU0:2_c-leaf-1#  show interfaces
 Thu Sep  7 15:17:18.514 UTC
-
+哈哈哈
 BVI1 is down, line protocol is down
   Interface state transitions: 0
   Hardware is Bridge-Group Virtual Interface, address is 10f3.116c.e6a7
@@ -18,7 +18,7 @@ BVI1 is down, line protocol is down
      Received 0 broadcast packets, 0 multicast packets
      0 packets output, 0 bytes, 0 total output drops
      Output 0 broadcast packets, 0 multicast packets
-
+ 
 BVI100 is down, line protocol is down
   Interface state transitions: 6
   Hardware is Bridge-Group Virtual Interface, address is 10f3.116c.e6a7
